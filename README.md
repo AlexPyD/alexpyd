@@ -4,9 +4,9 @@
 
 **Hey, I'm Alex And This Is My Bio!**
 
-👤 **Nombre:** Alex
+👤 **Name:** Alex
 
-🌍 **Ubicación:** Alcoy, Spain
+🌍 **I'm From:** Alcoy, Spain
 
 
 ## 📚 Learning
