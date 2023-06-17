@@ -2,8 +2,6 @@
 
 ## Bio 📝
 
-**Hey, I'm Alex And This Is My Bio!**
-
 👤 **Name:** Alex
 
 🌍 **I'm From:** Alcoy, Spain
@@ -18,4 +16,3 @@
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> 
 
-**_____________________________________________________________________________________________________________________**
