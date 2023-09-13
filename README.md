@@ -19,4 +19,4 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPi" width="20" height="20"/>
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/>
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aarch64/aarch64-original.svg" alt="Arch64" width="20" height="20"/>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aarch64/aarch64-plain.svg" alt="Arch64" width="20" height="20"/>
