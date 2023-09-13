@@ -15,4 +15,4 @@
 ## ✅ Proficient
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/>
-- <img src="https://raw.githubusercontent/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+- <img src="https://raw.githubusercontent/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/>
